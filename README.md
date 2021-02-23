@@ -40,9 +40,6 @@ I'm a Front End developer in love with creating interfaces and trying to make pe
 ---
 
 
----
-
-
 ### You can find in me in the web 🌍
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/thalesgelinger)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/thalesgelinger/)
