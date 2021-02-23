@@ -1,11 +1,11 @@
 # Hi there! I'm **Thales Gelinger**
+
 ## Welcome to my profile
 
 I'm a Front End developer in love with creating interfaces and trying to make people experience with technology better
 
 - 🔭 I’m currently working on CWI software with <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=flat&logo=angular&logoColor=white"/>
-- 🌱 I’m currently learning <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/> and 
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+- 🌱 I’m currently learning <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/> and <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 - 📫 How to reach me: thalesgelinger@gmail.com
 - 🤔 I’m looking for help with UX/UI design
 - 👊 Tired of seeing good systems ideas with bad experience
