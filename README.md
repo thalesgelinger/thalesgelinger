@@ -1,6 +1,6 @@
 # Hi there! I'm **Thales Gelinger**
 
-I'm a Front End developer in love with creating interfaces and trying to make people experience with technology better
+I'm a Mobile developer in love with creating interfaces and trying to make people experience with technology better
 
 - 🔭 I’m currently working on Dentsu World Services with <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
 - 📫 How to reach me: thalesgelinger@gmail.com
