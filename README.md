@@ -1,6 +1,6 @@
 # Hi there! I'm **Thales Gelinger**
 
-I'm a Mobile developer in love with creating interfaces and trying to make people experience with technology better
+I'm a Mobile developer that always try to improve experience with technology for everbody, for users, devs and rubber ducks
 
 - 🔭 I’m currently working on Dentsu World Services with <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
 - 📫 How to reach me: thalesgelinger@gmail.com
@@ -42,8 +42,3 @@ I'm a Mobile developer in love with creating interfaces and trying to make peopl
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:thalesgelinger@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/thalesgelinger/)
 
----
-
-
-### 📊 Github Status
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=thalesgelinger&count_private=true&show_icons=true&line_height=27)](https://github.com/thalesgelinger)
