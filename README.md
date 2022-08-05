@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/55005400/182980091-5c660a9c-232c-463d-872b-b07ceb438810.gif" height=100/>
+
 # Hi there! I'm **Thales Gelinger**
 
 I'm a Mobile developer that always try to improve experience with technology for everbody, for users, devs and rubber ducks
