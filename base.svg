@@ -14,9 +14,13 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_5_12" transform="scale(0.000688705 0.000340252)"/>
 </pattern>
+ 
+  <a href="http://google.com">
 <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1_5_12" transform="scale(0.000488281)"/>
 </pattern>
+    </a>
+  
 <pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image2_5_12" transform="scale(0.000488281)"/>
 </pattern>
