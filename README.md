@@ -1,11 +1,10 @@
 
-<img align="left" src="https://github.com/thalesgelinger/thalesgelinger/assets/55005400/3d195d73-bf1b-4730-ab74-74b0b1b1c459" height=100/>
 
-<h1 align="left"> Hi there! I'm <b>Thales Gelinger</b></h1>
-
-<h3 align="right">A very curious dev currently writing bugs in some mobile apps.</h3>
+<h1 align="center"> Hi there! I'm <b>Thales Gelinger</b></h1>
 
 <img src="https://github.com/thalesgelinger/thalesgelinger/assets/55005400/e33f0851-9766-4e1e-8bc9-cd357bcc2792" />
+
+<h3 align="center">A very curious dev currently writing bugs in some mobile apps.</h3>
 
 <h3 align="center">I use Vim btw</h3>
 
