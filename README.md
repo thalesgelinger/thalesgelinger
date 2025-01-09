@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning **IOS native development**
 
 - 📫 How to reach me **thalesgelinger@gmail.com**
-
+  
+![thalesgelinger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgelinger&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ---
 
 <h3 align="left">Connect with me:</h3>
